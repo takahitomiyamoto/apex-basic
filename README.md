@@ -13,8 +13,10 @@ Apex を基礎から学習していきましょう。
 
 ### Trailhead
 
+- [Trailhead の使用開始](https://trailhead.salesforce.com/ja/content/learn/modules/trailhead_basics/get-started-with-trailhead)
 - [クイックスタート: Apex](https://trailhead.salesforce.com/ja/content/learn/projects/quickstart-apex)
 - [Build Apex Coding Skills](https://trailhead.salesforce.com/ja/content/learn/trails/build-apex-coding-skills)
+- [Find and Fix Bugs with Apex Replay Debugger](https://trailhead.salesforce.com/ja/content/learn/projects/find-and-fix-bugs-with-apex-replay-debugger)
 
 ### Developer Guide
 
