@@ -1,6 +1,6 @@
 # Apex Basic
 
-Trailhead をベースに、Apex を基礎から学習していきましょう。
+Apex を基礎から学習していきましょう。
 
 ## Curriculum
 
