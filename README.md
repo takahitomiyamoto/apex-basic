@@ -28,3 +28,7 @@ Apex を基礎から学習していきましょう。
 
 - [Tech Blog](https://qiita.com/takahito0508)
 - [Lifestyle Blog](https://medium.com/takahitomiyamoto)
+
+# Landing Page
+
+- [GitHub Page](https://takahitomiyamoto.github.io/apex-basic/)
