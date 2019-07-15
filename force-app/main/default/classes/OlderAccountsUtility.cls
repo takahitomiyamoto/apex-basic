@@ -26,9 +26,9 @@ public class OlderAccountsUtility {
 //      * to avoid the limit on heap size.
 //      */
 //     Account[] oldAccounts = new List<Account>();
-//     for (Account acct : [SELECT Id, Description FROM Account ORDER BY CreatedDate ASC LIMIT 5]) {
-//       acct.Description = 'Heritage Account';
-//       oldAccounts.add(acct);
+//     for (Account account : [SELECT Id, Description FROM Account ORDER BY CreatedDate ASC LIMIT 5]) {
+//       account.Description = 'Heritage Account';
+//       oldAccounts.add(account);
 //     }
 //     update oldAccounts;
 //   }
